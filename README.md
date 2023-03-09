@@ -1,3 +1,2 @@
 # BBALLScraper
-Scraper implemented in Scraper.ipynb. \n
-Rest of analysis is still in progress.
+Scraper implemented in Scraper.ipynb. The Rest of the analysis is still in progress.
